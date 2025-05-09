@@ -7,7 +7,7 @@ return {
             c_chex_demo_disable_hand_containing = "Demo: Hand disabling",
             c_chex_demo_whitelist_hand = "Demo: Hand whitelisting",
             c_chex_demo_blackjack = "Demo: Blackjack",
-            c_chex_demo_jokers_per_dollar = "Demo: +Joker slotss per $",
+            c_chex_demo_jokers_per_dollar = "Demo: +Joker slots per $",
             c_chex_demo_overflow_debuff = "Demo: Overflow debuff",
             c_chex_demo_overflow_debuff_one = "Demo: Debuff per overflow",
             c_chex_demo_rental_hell = "Demo: Rental rules",
