@@ -68,6 +68,7 @@ SMODS.Challenge({
 	rules = {
 		custom = {
 			{ id = "whitelist_hand", hand = "Two Pair", value = "Two Pair" },
+			{ id = "whitelist_info" },
 		},
 	},
 	unlocked = function()
