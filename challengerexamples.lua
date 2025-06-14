@@ -155,3 +155,14 @@ SMODS.Challenge{ -- Chaos Incarnate
         banned_other = {}
     },
 }
+
+SMODS.load_file('demochallenges-vanilla.lua')()
+
+--[[
+if (SMODS.Mods["Bunco"] or {}).can_load then
+    SMODS.load_file('demochallenges-bunco.lua')()
+end
+if (SMODS.Mods["Cryptid"] or {}).can_load then
+    SMODS.load_file('demochallenges-cryptid.lua')()
+end
+]]
